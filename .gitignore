@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary and build artifacts
+*.tmp
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Explicitly excluded content: this repository contains aggregated results only
+code/
+data/
+__pycache__/
+*.py
+*.pt
+*.pth
+*.pkl
+*.npz
+*.npy
