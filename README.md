@@ -139,3 +139,9 @@ Comparison of incremental update variants.
 
 This repository is intended as a compact, human-readable summary of the
 aggregated results.
+
+## Acknowledgement
+
+The source codes of this article will be available at
+<https://github.com/pzl936/aspect-sparse-results>, contributing to SAR target
+recognition and target emulation.
